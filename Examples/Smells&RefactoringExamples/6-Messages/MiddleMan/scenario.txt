@@ -1,0 +1,3 @@
+two levels of middle men
+
+the ParmTruthManager is middle man for the other two, while the ModelManager is middle man for the DiachronicGraph

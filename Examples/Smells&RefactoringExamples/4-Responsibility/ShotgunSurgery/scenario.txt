@@ -1,0 +1,3 @@
+the scenario here is to add a new level in tax calculation...all classes need change
+
+In the example you can consider moving all methods to one class and then solve duplicate code
